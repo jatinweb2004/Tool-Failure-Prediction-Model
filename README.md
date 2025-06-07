@@ -50,6 +50,3 @@ The dataset consists of 10,000 rows with both numerical and categorical features
 - Evaluate with metrics like ROC-AUC, F1-score, and confusion matrix
 
 ---
-
-## Repo Structure
-
